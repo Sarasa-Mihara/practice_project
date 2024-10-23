@@ -10,7 +10,7 @@ public class Dog extends Animal {
 	}
 	
 	public String getFulColor() {
-		return this.fulColor = fulColor;
+		return fulColor;
 	}
 	public void setFulColor(String fulColor) {
 		this.fulColor = fulColor;
